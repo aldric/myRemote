@@ -1,0 +1,25 @@
+{
+    "manifest_version": 2,
+    "name": "myRemote+",
+    "version": "0.1.2",
+    "content_scripts": [
+        { 
+             "matches": ["http://live.mycanal.fr/tv/*"],
+            "js": [ "content_scripts/socket.io-1.3.7.js" , "content_scripts/jquery-2.1.4.min.js", "content_scripts/remote.js"],
+            "run_at":  "document_end"
+        }
+    ],
+    "permissions": [
+        "declarativeContent",
+        "<all_urls>",
+        "webRequest",
+        "storage",
+        "http://*/",
+        "https://*/"
+    ],
+    "browser_action": {
+        "default_icon": "images/canal.png",
+        "default_title": "myRemote+",
+        "default_popup": "browser_action/main.html"
+    }
+}
