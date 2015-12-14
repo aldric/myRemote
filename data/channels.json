@@ -1,0 +1,2821 @@
+[{
+		"Number" : 4,
+		"EpgId" : 301,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_301.PNG",
+		"Thematic" : "Canal+ les chaines",
+		"Profiles" : [{
+				"Access" : 2,
+				"CryptType" : 0,
+				"Type" : "SMOOTH",
+				"Name" : "CANAL+",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/canalplus-clair-sd.wsx",
+						"StreamTokenType" : "level3"
+					}
+				]
+			}, {
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "CANAL+",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/canalplus-hd.wsx",
+						"StreamTokenType" : "level3"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 2,
+		"EpgId" : 26,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_26.PNG",
+		"Thematic" : "Généralistes",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "FRANCE 2",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/france2-hd.wsx",
+						"StreamTokenType" : "level3"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 140,
+		"EpgId" : 84,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_84.PNG",
+		"Thematic" : "Sport",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "L'EQUIPE 21",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/lequipe21-sd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 121,
+		"EpgId" : 101,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_101.PNG",
+		"Thematic" : "Sport",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "EUROSPORT 1",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/eurosport1-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 89,
+		"EpgId" : 142,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_142.PNG",
+		"Thematic" : "Découverte",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "USHUAIA TV",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/ushuaiatv-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 7,
+		"EpgId" : 154,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_154.PNG",
+		"Thematic" : "Généralistes",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "ARTE",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/arte-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 177,
+		"EpgId" : 165,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_165.PNG",
+		"Thematic" : "Musique",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "BRAVA",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/brava-hd.wsx",
+						"StreamTokenType" : "level3"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 216,
+		"EpgId" : 167,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_167.PNG",
+		"Thematic" : "Adulte",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "PENTHOUSE",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/penthouse-hd.wsx",
+						"StreamTokenType" : "level3"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 84,
+		"EpgId" : 174,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_174.PNG",
+		"Thematic" : "Découverte",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "DISCOVERY",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/discoverychannel-hd.wsx",
+						"StreamTokenType" : "level3"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 11,
+		"EpgId" : 177,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_177.PNG",
+		"Thematic" : "Canal+ les chaines",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "CANAL+ SPORT",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/canalplussport-hd.wsx",
+						"StreamTokenType" : "level3"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 168,
+		"EpgId" : 184,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_184.PNG",
+		"Thematic" : "Jeunesse",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "DIEGO TV",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/diegotv-sd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 169,
+		"EpgId" : 185,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_185.PNG",
+		"Thematic" : "Jeunesse",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "DORA TV",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/doratv-sd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 167,
+		"EpgId" : 196,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_196.PNG",
+		"Thematic" : "Jeunesse",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "BOB TV",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/bobtv-sd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 10,
+		"EpgId" : 198,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_198.PNG",
+		"Thematic" : "Canal+ les chaines",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "CANAL+ CINEMA",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/canalpluscinema-hd.wsx",
+						"StreamTokenType" : "level3"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 14,
+		"EpgId" : 257,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_257.PNG",
+		"Thematic" : "Canal+ les chaines",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "CANAL+ DECALE",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/canalplusdecale-hd.wsx",
+						"StreamTokenType" : "level3"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 13,
+		"EpgId" : 259,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_259.PNG",
+		"Thematic" : "Canal+ les chaines",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "CANAL+ FAMILY",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/canalplusfamily-hd.wsx",
+						"StreamTokenType" : "level3"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 180,
+		"EpgId" : 268,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_268.PNG",
+		"Thematic" : "Musique",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "MEZZO LIVE",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/mezzolive-hd.wsx",
+						"StreamTokenType" : "level3"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 80,
+		"EpgId" : 270,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_270.PNG",
+		"Thematic" : "Découverte",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "PLANETE+",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/planeteplus-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 150,
+		"EpgId" : 274,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_274.PNG",
+		"Thematic" : "Jeunesse",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "DISNEY JUNIOR",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/disneyjunior-hd.wsx",
+						"StreamTokenType" : "level3"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 163,
+		"EpgId" : 282,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_282.PNG",
+		"Thematic" : "Jeunesse",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "DISNEY CHANNEL",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/disneychannel-hd.wsx",
+						"StreamTokenType" : "level3"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 159,
+		"EpgId" : 284,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_284.PNG",
+		"Thematic" : "Jeunesse",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "DISNEY XD",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/disneyxd-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 87,
+		"EpgId" : 290,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_290.PNG",
+		"Thematic" : "Découverte",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "NAT GEO WILD",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/natgeowild-hd.wsx",
+						"StreamTokenType" : "level3"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 54,
+		"EpgId" : 292,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_292.PNG",
+		"Thematic" : "Séries et Divertissement",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "TEVA",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/teva-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 55,
+		"EpgId" : 294,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_294.PNG",
+		"Thematic" : "Séries et Divertissement",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "PARIS PREMIERE",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/parispremiere-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 59,
+		"EpgId" : 296,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_296.PNG",
+		"Thematic" : "Séries et Divertissement",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "W9",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/w9-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 123,
+		"EpgId" : 298,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_298.PNG",
+		"Thematic" : "Sport",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "MA CHAINE SPORT",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/machainesport-hd.wsx",
+						"StreamTokenType" : "level3"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 86,
+		"EpgId" : 302,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_302.PNG",
+		"Thematic" : "Découverte",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "NATIONAL GEO",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/nationalgeographic-hd.wsx",
+						"StreamTokenType" : "level3"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 1,
+		"EpgId" : 312,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_312.PNG",
+		"Thematic" : "Généralistes",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "TF1",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/tf1-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 6,
+		"EpgId" : 313,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_313.PNG",
+		"Thematic" : "Généralistes",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "M6",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/m6-hd.wsx",
+						"StreamTokenType" : "level3"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 20,
+		"EpgId" : 322,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_322.PNG",
+		"Thematic" : "Cinéma",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "CINE+ PREMIER",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/cinepluspremier-hd.wsx",
+						"StreamTokenType" : "level3"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 104,
+		"EpgId" : 324,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_324.PNG",
+		"Thematic" : "Information",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "EURONEWS",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/euronews-sd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 30,
+		"EpgId" : 340,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_340.PNG",
+		"Thematic" : "Cinéma",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "DISNEY CINEMA",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/disneycinema-hd.wsx",
+						"StreamTokenType" : "level3"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 42,
+		"EpgId" : 341,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_341.PNG",
+		"Thematic" : "Séries et Divertissement",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "SYFY",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/syfy-hd.wsx",
+						"StreamTokenType" : "level3"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 41,
+		"EpgId" : 342,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_342.PNG",
+		"Thematic" : "Séries et Divertissement",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "13EME RUE",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/treiziemerue-hd.wsx",
+						"StreamTokenType" : "level3"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 172,
+		"EpgId" : 352,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_352.PNG",
+		"Thematic" : "Musique",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "M6 MUSIC",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/m6music-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 43,
+		"EpgId" : 356,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_356.PNG",
+		"Thematic" : "Séries et Divertissement",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "SERIE CLUB",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/serieclub-hd.wsx",
+						"StreamTokenType" : "level3"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 26,
+		"EpgId" : 372,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_372.PNG",
+		"Thematic" : "Cinéma",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "OCS MAX",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/ocsmax-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 31,
+		"EpgId" : 374,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_374.PNG",
+		"Thematic" : "Cinéma",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "TCM CINEMA",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/tcm-hd.wsx",
+						"StreamTokenType" : "level3"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 134,
+		"EpgId" : 378,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_378.PNG",
+		"Thematic" : "Sport",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "GOLF+",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/golfplus-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 137,
+		"EpgId" : 381,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_381.PNG",
+		"Thematic" : "Sport",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "BEIN SPORTS 1",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/beinsports1-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 138,
+		"EpgId" : 384,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_384.PNG",
+		"Thematic" : "Sport",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "BEIN SPORTS 2",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/beinsports2-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 85,
+		"EpgId" : 393,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_393.PNG",
+		"Thematic" : "Découverte",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "DISCOVERY SCIENCE",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/discoveryscience-hd.wsx",
+						"StreamTokenType" : "level3"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 22,
+		"EpgId" : 396,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_396.PNG",
+		"Thematic" : "Cinéma",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "CINE+ EMOTION",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/cineplusemotion-hd.wsx",
+						"StreamTokenType" : "level3"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 21,
+		"EpgId" : 398,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_398.PNG",
+		"Thematic" : "Cinéma",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "CINE+ FRISSON",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/cineplusfrisson-hd.wsx",
+						"StreamTokenType" : "level3"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 181,
+		"EpgId" : 407,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_407.PNG",
+		"Thematic" : "Musique",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "DJAZZ.TV",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/djazztv-hd.wsx",
+						"StreamTokenType" : "level3"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 125,
+		"EpgId" : 410,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_410.PNG",
+		"Thematic" : "Sport",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "KOMBAT SPORT",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/kombatsport-hd.wsx",
+						"StreamTokenType" : "level3"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 264,
+		"EpgId" : 413,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_413.PNG",
+		"Thematic" : "Sport",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "BEIN SPORTS MAX 4",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/beinsportsmax4-sd.wsx",
+						"StreamTokenType" : "level3"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 265,
+		"EpgId" : 414,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_414.PNG",
+		"Thematic" : "Sport",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "BEIN SPORTS MAX 5",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/beinsportsmax5-sd.wsx",
+						"StreamTokenType" : "level3"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 266,
+		"EpgId" : 415,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_415.PNG",
+		"Thematic" : "Sport",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "BEIN SPORTS MAX 6",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/beinsportsmax6-sd.wsx",
+						"StreamTokenType" : "level3"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 267,
+		"EpgId" : 416,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_416.PNG",
+		"Thematic" : "Sport",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "BEIN SPORTS MAX 7",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/beinsportsmax7-sd.wsx",
+						"StreamTokenType" : "level3"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 268,
+		"EpgId" : 417,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_417.PNG",
+		"Thematic" : "Sport",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "BEIN SPORTS MAX 8",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/beinsportsmax8-sd.wsx",
+						"StreamTokenType" : "level3"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 269,
+		"EpgId" : 418,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_418.PNG",
+		"Thematic" : "Sport",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "BEIN SPORTS MAX 9",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/beinsportsmax9-sd.wsx",
+						"StreamTokenType" : "level3"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 270,
+		"EpgId" : 419,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_419.PNG",
+		"Thematic" : "Sport",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "BEIN SPORTS MAX 10",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/beinsportsmax10-sd.wsx",
+						"StreamTokenType" : "level3"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 133,
+		"EpgId" : 426,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_426.PNG",
+		"Thematic" : "Sport",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "SPORT 365",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/sport365-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 46,
+		"EpgId" : 434,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_434.PNG",
+		"Thematic" : "Séries et Divertissement",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "NON STOP PEOPLE",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/nonstoppeople-hd.wsx",
+						"StreamTokenType" : "level3"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 122,
+		"EpgId" : 436,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_436.PNG",
+		"Thematic" : "Sport",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "EUROSPORT 2",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/eurosport2-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 98,
+		"EpgId" : 438,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_438.PNG",
+		"Thematic" : "Découverte",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "RMC DECOUVERTE",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/rmcdecouverte-sd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 69,
+		"EpgId" : 440,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_440.PNG",
+		"Thematic" : "Séries et Divertissement",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "CHERIE 25",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/cherie25-hd.wsx",
+						"StreamTokenType" : "SMARTJOG"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 58,
+		"EpgId" : 450,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_450.PNG",
+		"Thematic" : "Séries et Divertissement",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "D8",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/d8-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 81,
+		"EpgId" : 462,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_462.PNG",
+		"Thematic" : "Découverte",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "PLANETE+ THALASSA",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/planeteplusthalassa-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 19,
+		"EpgId" : 464,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_464.PNG",
+		"Thematic" : "Généraliste",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "EVENEMENT",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/evenement-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 28,
+		"EpgId" : 466,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_466.PNG",
+		"Thematic" : "Cinéma",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "OCS CHOC",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/ocschoc-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 27,
+		"EpgId" : 467,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_467.PNG",
+		"Thematic" : "Cinéma",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "OCS CITY",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/ocscity-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 29,
+		"EpgId" : 468,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_468.PNG",
+		"Thematic" : "Cinéma",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "OCS GEANTS",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/ocsgeants-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 44,
+		"EpgId" : 470,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_470.PNG",
+		"Thematic" : "Séries et Divertissement",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "MTV",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/mtv-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 88,
+		"EpgId" : 477,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_477.PNG",
+		"Thematic" : "Découverte",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "VOYAGE",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/voyage-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 102,
+		"EpgId" : 480,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_480.PNG",
+		"Thematic" : "Information",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "iTELE",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/itele-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 12,
+		"EpgId" : 481,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_481.PNG",
+		"Thematic" : "Canal+ les chaines",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "CANAL+ SERIES",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/canalplusseries-hd.wsx",
+						"StreamTokenType" : "level3"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 50,
+		"EpgId" : 484,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_484.PNG",
+		"Thematic" : "Séries et Divertissement",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "J-ONE",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/jone-hd.wsx",
+						"StreamTokenType" : "level3"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 32,
+		"EpgId" : 487,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_487.PNG",
+		"Thematic" : "Cinéma",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "PARAMOUNT CHANNEL",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/paramountchannel-hd.wsx",
+						"StreamTokenType" : "level3"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 124,
+		"EpgId" : 494,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_494.PNG",
+		"Thematic" : "Sport",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "MCS EXTREME",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/mcsextreme-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 158,
+		"EpgId" : 502,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_502.PNG",
+		"Thematic" : "Jeunesse",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "CARTOON NETWORK",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/cartoonnetwork-hd.wsx",
+						"StreamTokenType" : "level3"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 92,
+		"EpgId" : 503,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_503.PNG",
+		"Thematic" : "Découverte",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "ANIMAUX",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/animaux-hd.wsx",
+						"StreamTokenType" : "level3"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 33,
+		"EpgId" : 504,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_504.PNG",
+		"Thematic" : "Cinéma",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "ACTION",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/action-hd.wsx",
+						"StreamTokenType" : "level3"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 56,
+		"EpgId" : 505,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_505.PNG",
+		"Thematic" : "Séries et Divertissement",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "RTL9",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/rtl9-hd.wsx",
+						"StreamTokenType" : "level3"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 64,
+		"EpgId" : 513,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_513.PNG",
+		"Thematic" : "Séries et Divertissement",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "D17",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/d17-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 139,
+		"EpgId" : 516,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_516.PNG",
+		"Thematic" : "Sport",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "BEIN SPORTS 3",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/beinsports3-hd.wsx",
+						"StreamTokenType" : "level3"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 162,
+		"EpgId" : 518,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_518.PNG",
+		"Thematic" : "Jeunesse",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "NICKELODEON 4TEEN",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/nickelodeon4teen-hd.wsx",
+						"StreamTokenType" : "level3"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 71,
+		"EpgId" : 520,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_520.PNG",
+		"Thematic" : "Séries et Divertissement",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "TV5 MONDE",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/tv5-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 67,
+		"EpgId" : 521,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_521.PNG",
+		"Thematic" : "Séries et Divertissement",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "6TER",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/6ter-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 45,
+		"EpgId" : 524,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_524.PNG",
+		"Thematic" : "Séries et Divertissement",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "JUNE",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/june-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 157,
+		"EpgId" : 525,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_525.PNG",
+		"Thematic" : "Jeunesse",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "CANAL J",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/canalj-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 66,
+		"EpgId" : 526,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_526.PNG",
+		"Thematic" : "Séries et Divertissement",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "HD1",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/hd1-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 200,
+		"EpgId" : 527,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_527.PNG",
+		"Thematic" : "Cinéma",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "NOLLYWOOD TV",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/nollywoodtv-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 165,
+		"EpgId" : 529,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_529.PNG",
+		"Thematic" : "Jeunesse",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "BOING",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/boing-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 155,
+		"EpgId" : 530,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_530.PNG",
+		"Thematic" : "Jeunesse",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "BOOMERANG",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/boomerang-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 25,
+		"EpgId" : 531,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_531.PNG",
+		"Thematic" : "Cinéma",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "CINE+ CLASSIC",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/cineplusclassic-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 24,
+		"EpgId" : 532,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_532.PNG",
+		"Thematic" : "Cinéma",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "CINE+ CLUB",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/cineplusclub-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 23,
+		"EpgId" : 533,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_533.PNG",
+		"Thematic" : "Cinéma",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "CINE+ FAMIZ",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/cineplusfamiz-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 40,
+		"EpgId" : 534,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_534.PNG",
+		"Thematic" : "Séries et Divertissement",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "COMEDIE+",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/comedieplus-hd.wsx",
+						"StreamTokenType" : "level3"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 213,
+		"EpgId" : 536,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_536.PNG",
+		"Thematic" : "Adulte",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "DORCEL TV",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/dorceltv-hd.wsx",
+						"StreamTokenType" : "level3"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 215,
+		"EpgId" : 537,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_537.PNG",
+		"Thematic" : "Adulte",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "DORCEL XXX",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/dorcelxxx-hd.wsx",
+						"StreamTokenType" : "level3"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 47,
+		"EpgId" : 538,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_538.PNG",
+		"Thematic" : "Séries et Divertissement",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "E!",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/eentertainment-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 132,
+		"EpgId" : 539,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_539.PNG",
+		"Thematic" : "Sport",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "EQUIDIA LIFE",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/equidialife-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 131,
+		"EpgId" : 540,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_540.PNG",
+		"Thematic" : "Sport",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "EQUIDIA LIVE",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/equidialive-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 135,
+		"EpgId" : 541,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_541.PNG",
+		"Thematic" : "Sport",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "EXTREME SPORTS",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/extremesports-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 251,
+		"EpgId" : 542,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_542.PNG",
+		"Thematic" : "Sport",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "FOOT+ 24/24",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/footplus2424-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 3,
+		"EpgId" : 543,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_543.PNG",
+		"Thematic" : "Généralistes",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "FRANCE 3",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/france3-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 63,
+		"EpgId" : 544,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_544.PNG",
+		"Thematic" : "Séries et Divertissement",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "FRANCE 4",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/france4-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 5,
+		"EpgId" : 545,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_545.PNG",
+		"Thematic" : "Généralistes",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "FRANCE 5",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/france5-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 65,
+		"EpgId" : 546,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_546.PNG",
+		"Thematic" : "Séries et Divertissement",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "FRANCE O",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/franceo-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 211,
+		"EpgId" : 547,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_547.PNG",
+		"Thematic" : "Adulte",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "FRENCH LOVER",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/frenchlover-hd.wsx",
+						"StreamTokenType" : "level3"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 130,
+		"EpgId" : 548,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_548.PNG",
+		"Thematic" : "Sport",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "GIRONDINS TV",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/girondinstv-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 166,
+		"EpgId" : 549,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_549.PNG",
+		"Thematic" : "Jeunesse",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "GULLI",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/gulli-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 90,
+		"EpgId" : 550,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_550.PNG",
+		"Thematic" : "Découverte",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "HISTOIRE",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/histoire-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 120,
+		"EpgId" : 551,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_551.PNG",
+		"Thematic" : "Sport",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "INFOSPORT+",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/infosportplus-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 100,
+		"EpgId" : 552,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_552.PNG",
+		"Thematic" : "Information",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "LA CHAINE METEO",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/lachainemeteo-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 101,
+		"EpgId" : 553,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_553.PNG",
+		"Thematic" : "Information",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "LCI",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/lci-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 106,
+		"EpgId" : 554,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_554.PNG",
+		"Thematic" : "Information",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 11,
+				"Type" : "SMOOTH",
+				"Name" : "LCP",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/lcp-hd.wsx",
+						"StreamTokenType" : "SMARTJOG"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 212,
+		"EpgId" : 555,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_555.PNG",
+		"Thematic" : "Adulte",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "LIBIDO TV",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/libidotv-hd.wsx",
+						"StreamTokenType" : "SMARTJOG"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 48,
+		"EpgId" : 556,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_556.PNG",
+		"Thematic" : "Séries et Divertissement",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "MCM",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/mcm-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 176,
+		"EpgId" : 557,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_557.PNG",
+		"Thematic" : "Musique",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "RFM TV",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/rfmtv-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 175,
+		"EpgId" : 558,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_558.PNG",
+		"Thematic" : "Musique",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "MCM TOP",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/mcmtop-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 73,
+		"EpgId" : 559,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_559.PNG",
+		"Thematic" : "Séries et Divertissement",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "MCS BIEN ETRE",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/mcsbienetre-hd.wsx",
+						"StreamTokenType" : "SMARTJOG"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 179,
+		"EpgId" : 560,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_560.PNG",
+		"Thematic" : "Musique",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "MEZZO",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/mezzo-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 126,
+		"EpgId" : 561,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_561.PNG",
+		"Thematic" : "Sport",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "MOTORS TV",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/motorstv-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 253,
+		"EpgId" : 562,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_562.PNG",
+		"Thematic" : "Sport",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "MULTISPORTS 1",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/multisports1-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 254,
+		"EpgId" : 563,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_563.PNG",
+		"Thematic" : "Sport",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "MULTISPORTS 2",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/multisports2-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 255,
+		"EpgId" : 564,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_564.PNG",
+		"Thematic" : "Sport",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "MULTISPORTS 3",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/multisports3-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 256,
+		"EpgId" : 565,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_565.PNG",
+		"Thematic" : "Sport",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "MULTISPORTS 4",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/multisports4-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 257,
+		"EpgId" : 566,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_566.PNG",
+		"Thematic" : "Sport",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "MULTISPORTS 5",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/multisports5-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 258,
+		"EpgId" : 567,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_567.PNG",
+		"Thematic" : "Sport",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "MULTISPORTS 6",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/multisports6-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 62,
+		"EpgId" : 568,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_568.PNG",
+		"Thematic" : "Séries et Divertissement",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "NRJ 12",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/nrj12-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 173,
+		"EpgId" : 569,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_569.PNG",
+		"Thematic" : "Musique",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "NRJ HITS",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/nrjhits-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 61,
+		"EpgId" : 570,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_570.PNG",
+		"Thematic" : "Séries et Divertissement",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "NT1",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/nt1-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 68,
+		"EpgId" : 571,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_571.PNG",
+		"Thematic" : "Séries et Divertissement",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "NUMERO 23",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/numero23-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 128,
+		"EpgId" : 572,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_572.PNG",
+		"Thematic" : "Sport",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "OL TV",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/oltv-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 127,
+		"EpgId" : 573,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_573.PNG",
+		"Thematic" : "Sport",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "OM TV",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/omtv-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 129,
+		"EpgId" : 574,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_574.PNG",
+		"Thematic" : "Sport",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "ONZEO",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/onzeo-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 217,
+		"EpgId" : 575,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_575.PNG",
+		"Thematic" : "Adulte",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "PINK X",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/pinkx-hd.wsx",
+						"StreamTokenType" : "level3"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 154,
+		"EpgId" : 576,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_576.PNG",
+		"Thematic" : "Jeunesse",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "PIWI+",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/piwiplus-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 95,
+		"EpgId" : 577,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_577.PNG",
+		"Thematic" : "Découverte",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "SEASONS",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/seasons-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 178,
+		"EpgId" : 580,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_580.PNG",
+		"Thematic" : "Musique",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "MELODY",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/telemelody-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 160,
+		"EpgId" : 581,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_581.PNG",
+		"Thematic" : "Jeunesse",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "TELETOON+",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/teletoonplus-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 151,
+		"EpgId" : 583,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_583.PNG",
+		"Thematic" : "Jeunesse",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "TIJI",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/tiji-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 60,
+		"EpgId" : 584,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_584.PNG",
+		"Thematic" : "Séries et Divertissement",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "TMC",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/tmc-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 174,
+		"EpgId" : 585,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_585.PNG",
+		"Thematic" : "Musique",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "TRACE URBAN",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/traceurban-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 53,
+		"EpgId" : 586,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_586.PNG",
+		"Thematic" : "Séries et Divertissement",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "TV BREIZH",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/tvbreizh-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 82,
+		"EpgId" : 587,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_587.PNG",
+		"Thematic" : "Découverte",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "PLANETE+ CI",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/planeteplusci-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 83,
+		"EpgId" : 588,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_588.PNG",
+		"Thematic" : "Découverte",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "PLANETE+ A&E",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/planeteplusaete-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 110,
+		"EpgId" : 589,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_589.PNG",
+		"Thematic" : "Information",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "BBC WORLD NEWS",
+				"UseMD" : 0,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/bbcworldnews-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 156,
+		"EpgId" : 591,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_591.PNG",
+		"Thematic" : "Jeunesse",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "NICKELODEON",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/nickelodeon-hd.wsx",
+						"StreamTokenType" : "SMARTJOG"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 49,
+		"EpgId" : 592,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_592.PNG",
+		"Thematic" : "Séries et Divertissement",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "GAME ONE",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/gameone-hd.wsx",
+						"StreamTokenType" : "SMARTJOG"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 152,
+		"EpgId" : 593,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_593.PNG",
+		"Thematic" : "Jeunesse",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "NICKELODEON JR",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/nickelodeonjunior-hd.wsx",
+						"StreamTokenType" : "SMARTJOG"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 52,
+		"EpgId" : 611,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_611.PNG",
+		"Thematic" : "Séries et Divertissement",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "AB1",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/ab1-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 136,
+		"EpgId" : 612,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_612.PNG",
+		"Thematic" : "Sport",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "AB MOTEURS",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/abmoteurs-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 51,
+		"EpgId" : 613,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_613.PNG",
+		"Thematic" : "Séries et Divertissement",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "MANGAS",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/mangas-hd.wsx",
+						"StreamTokenType" : "SMARTJOG"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 94,
+		"EpgId" : 614,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_614.PNG",
+		"Thematic" : "Découverte",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "SCIENCE ET VIE TV",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/scienceetvie-hd.wsx",
+						"StreamTokenType" : "SMARTJOG"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 93,
+		"EpgId" : 615,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_615.PNG",
+		"Thematic" : "Découverte",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "TREK",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/trek-hd.wsx",
+						"StreamTokenType" : "SMARTJOG"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 214,
+		"EpgId" : 616,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_616.PNG",
+		"Thematic" : "Adulte",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "XXL",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/xxl-hd.wsx",
+						"StreamTokenType" : "SMARTJOG"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 77,
+		"EpgId" : 619,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_619.PNG",
+		"Thematic" : "Séries et Divertissement",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "QVC",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/qvc-hd.wsx",
+						"StreamTokenType" : "SMARTJOG"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 91,
+		"EpgId" : 620,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_620.PNG",
+		"Thematic" : "Découverte",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "TOUTE L'HISTOIRE",
+				"UseMD" : 3,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/toutelhistoire-hd.wsx",
+						"StreamTokenType" : "SMARTJOG"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 57,
+		"EpgId" : 628,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_628.PNG",
+		"Thematic" : "Séries et Divertissement",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "BET",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/bet-hd.wsx",
+						"StreamTokenType" : "SMARTJOG"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 170,
+		"EpgId" : 629,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_629.PNG",
+		"Thematic" : "Musique",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "MTV HITS",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/mtvhits-hd.wsx",
+						"StreamTokenType" : "SMARTJOG"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 79,
+		"EpgId" : 632,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_632.PNG",
+		"Thematic" : "Séries et Divertissement",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "ASTROCENTER TV",
+				"UseMD" : 0,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/astrocenter-hd.wsx",
+						"StreamTokenType" : "SMARTJOG"
+					}
+				]
+			}
+		]
+	}, {
+		"Number" : 103,
+		"EpgId" : 633,
+		"LogoUrl" : "http://epg.canal-plus.com/mycanal/img/CHN43FN/PNG/150X112/CHN43FN_633.PNG",
+		"Thematic" : "Information",
+		"Profiles" : [{
+				"Access" : 4,
+				"CryptType" : 12,
+				"Type" : "SMOOTH",
+				"Name" : "BFM TV",
+				"UseMD" : 1,
+				"VideoLinks" : [{
+						"Url" : "http://webtv-static.canal-plus.com/resources/wsx/PC/bfmtv-hd.wsx",
+						"StreamTokenType" : "NONE"
+					}
+				]
+			}
+		]
+	}
+]

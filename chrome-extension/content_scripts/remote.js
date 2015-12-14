@@ -10,16 +10,16 @@ function Remote() {
 	});
 	
 	socket.on('zap', function(zapInfo){
-		console.log('zapping :' + zapInfo)
+		console.log('zapping :' + JSON.stringify(zapInfo))
 		
 		if(zapInfo.img)
 			clickCarouselImage(zapInfo.img);
 		
 		switch(zapInfo.action) {
-			case 'previous' :
+			case 'down' :
 				clickEvent($('#one-player .zaplist-element.active').parent().prev().find('a')[0]);
 			break;
-			case 'next' :
+			case 'up' :
 				clickEvent($('#one-player .zaplist-element.active').parent().next().find('a')[0]);
 			break;
 		}
