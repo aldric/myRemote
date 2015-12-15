@@ -22,6 +22,12 @@ function Remote() {
 			case 'up' :
 				clickEvent($('#one-player .zaplist-element.active').parent().next().find('a')[0]);
 			break;
+			case 'next' :
+				clickEvent($('#one-player > div > div.positioner > div.positioner-middle > section.navigation.navigation-reverse > a.btn.btn-right.btn-next')[0]);
+			break;
+			case 'review' :
+				clickEvent($('##one-player > div > div.positioner > div.positioner-middle > section.navigation.navigation-reverse > a.btn.btn-left.btn-replay')[0]);
+			break;
 		}
 	});
 
@@ -68,7 +74,19 @@ function Remote() {
     var clickMosaic = function () {
         shootEvent('#one-player > div > div.positioner > div.positioner-middle > section.modals-bar > menu > li.mosaic > a');
     };
-
+	
+	this.getChannelInfo = function (channelId) {
+        $.ajax({
+            url: "http://webtv-static.canal-plus.com/metadata/Canal/chid" + channelId + ".json",
+            context: document.body
+        }).done(function (data) {
+			if(callback)
+				callback(data)
+          
+        });
+    };
+	
+	//
     this.getChannels = function (callback) {
         $.ajax({
             url: "http://webtv-static.canal-plus.com/resources/31_1/Channels.json",

@@ -1,0 +1,13 @@
+<ul class="media-list">
+	<li class="media" ng-repeat="channel in channels | orderBy:'Number' " ng-click="zap(channel.LogoUrl)">
+		<div class="media-left">
+		  <a href="#">
+			<img class="media-object" ng-src='{{channel.LogoUrl}}' alt="{{channel.Profiles[0].Name}}">
+		  </a>
+		</div>
+		<div class="media-body">
+		  <h4 class="media-heading">{{channel.Profiles[0].Name}}</h4>
+		  {{channel.Profiles[0].Name}}
+		</div>
+	</li>
+</ul>

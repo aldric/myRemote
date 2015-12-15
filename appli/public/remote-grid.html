@@ -1,0 +1,3 @@
+<span ng-repeat="channel in channels | orderBy:'Number' " ng-click="zap(channel.LogoUrl)">
+	<img ng-src='{{channel.LogoUrl}}' alt="{{channel.Profiles[0].Name}}" class="img-thumbnail" />
+</span>
